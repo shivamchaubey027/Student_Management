@@ -54,7 +54,7 @@ cd student-management-system
 
 3. Update MySQL credentials in config.properties with your database username and password.
 
-##Commands to Run the project
+## Commands to Run the project
 
 javac -cp mysql-connector-java-8.0.27.jar *.java
 java -cp .:mysql-connector-java-8.0.27.jar Main
